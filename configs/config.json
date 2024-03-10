@@ -1,0 +1,12 @@
+{
+  "PostalCodeHosts": [
+    {
+      "Name": "BrasilApi",
+      "Host": "https://brasilapi.com.br/api/cep/v1/20080003/"
+    },
+    {
+      "Name": "ViaCep",
+      "Host": "http://viacep.com.br/ws/20080003/json/"
+    }
+  ]
+}
